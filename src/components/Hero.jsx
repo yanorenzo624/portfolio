@@ -3,7 +3,8 @@ import { fadeUp } from "../animations/variants";
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center px-6 pt-24">
+    <section className="min-h-screen flex items-center justify-center px-4 sm:px-6 pt-24">
+
       <motion.div
         className="text-center max-w-xl"
         variants={fadeUp}
@@ -18,7 +19,7 @@ const Hero = () => {
           Frontend Developer building responsive and user-friendly web
           applications with React.
         </p>
-        
+
         <div className="flex flex-col sm:flex-row justify-center gap-4">
           <a
             href="#projects"
