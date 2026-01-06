@@ -4,10 +4,10 @@ import { fadeUp, staggerContainer } from "../animations/variants";
 const projects = [
     {
         title: "E-Commerce Store",
-        description: "Responsive shopping app with cart and product filtering.",
-        tech: "React • Tailwind • API",
+        description: "A responsive e-commerce frontend built with React, featuring product listings, cart functionality, and global state management.",
+        tech: "React • Tailwind CSS • Context API • REST API",
         live: "#",
-        code: "#",
+        code: "https://github.com/yanorenzo624/ecommerce",
     },
     {
         title: "Dashboard App",
@@ -50,8 +50,8 @@ const Projects = () => {
                             </p>
                             <p className="text-xs text-gray-500 mb-4">{project.tech}</p>
                             <div className="flex gap-4 text-sm">
-                                <a href={project.live} className="text-green-600">Live</a>
-                                <a href={project.code} className="text-green-600">Code</a>
+                                <a href={project.live} className="text-green-600">Live Demo</a>
+                                <a href={project.code} className="text-green-600">GitHub Repo</a>
                             </div>
                         </motion.div>
                     ))}
