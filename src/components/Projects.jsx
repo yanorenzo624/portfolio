@@ -4,7 +4,7 @@ import { fadeUp, staggerContainer } from "../animations/variants";
 const projects = [
     {
         title: "E-Commerce Store",
-        description: "A responsive e-commerce frontend built with React, featuring product listings, cart functionality, and global state management.",
+        description: "A fully responsive e-commerce frontend built with React, featuring product search, filtering, sorting, and a persistent shopping cart.",
         tech: "React • Tailwind CSS • Context API • REST API",
         live: "#",
         code: "https://github.com/yanorenzo624/ecommerce",
