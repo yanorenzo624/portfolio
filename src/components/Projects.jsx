@@ -10,11 +10,11 @@ const projects = [
         code: "https://github.com/yanorenzo624/ecommerce",
     },
     {
-        title: "Dashboard App",
-        description: "Modern dashboard UI with charts and cards.",
-        tech: "React • Chart.js",
+        title: "Admin Dashboard",
+        description: "A production-style admin dashboard with role-based access control, protected routes, reusable async logic, and polished UX.",
+        tech: "React • JavaScript • Tailwind CSS • React Router • Context API • Recharts • Vite",
         live: "#",
-        code: "#",
+        code: "https://github.com/yanorenzo624/admin-dashboard",
     },
     {
         title: "Weather App",
