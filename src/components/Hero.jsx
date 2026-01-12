@@ -12,7 +12,7 @@ const Hero = () => {
         animate="visible"
       >
         <h2 className="text-4xl font-bold mb-4">
-          Hi, I’m <span className="text-green-600">Renzo Yano</span>
+          Hi, I’m <span className="text-green-600">Yano Renzo</span>
         </h2>
 
         <p className="text-gray-600 mb-6">

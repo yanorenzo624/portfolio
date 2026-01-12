@@ -3,7 +3,7 @@ const Navbar = () => {
     <nav className="fixed top-0 w-full bg-white border-b z-50">
       <div className="max-w-5xl mx-auto flex justify-between items-center px-4 py-3">
         <h1 className="font-bold text-base sm:text-lg">
-          Renzo Yano
+          Yano Renzo
         </h1>
 
         <div className="flex items-center gap-3 sm:gap-6 text-sm">
