@@ -17,11 +17,11 @@ const projects = [
         code: "https://github.com/yanorenzo624/admin-dashboard",
     },
     {
-        title: "Weather App",
-        description: "API-based weather app with search and loading states.",
-        tech: "React • API",
+        title: "Kanban Board",
+        description: "A Trello-inspired Kanban board built with React and TypeScript, focused on clean state management, scalable architecture, and polished user experience.",
+        tech: "React • TypeScript • Tailwind CSS • @dnd-kit • Vitest • Vite",
         live: "#",
-        code: "#",
+        code: "https://github.com/yanorenzo624/kanban-board",
     },
 ];
 
