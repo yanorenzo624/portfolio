@@ -12,7 +12,13 @@ const Skills = () => {
                 whileInView="visible"
                 viewport={{ once: true }}
             >
-                {["HTML", "CSS", "JavaScript", "React", "Tailwind", "Git"].map(skill => (
+                {[
+                    "HTML5", "CSS3", "JavaScript (ES6+)", 
+                    "TypeScript", "React", "Tailwind CSS", 
+                    "Sass", "Git", "Github", "Vitest", "Figma",
+                    "VS Code", "Responsive Design", "REST APIs",
+                    "Accessibility (a11y)"
+                ].map(skill => (
                     <motion.span
                         key={skill}
                         variants={fadeUp}
