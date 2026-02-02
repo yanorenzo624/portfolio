@@ -15,7 +15,7 @@ const Skills = () => {
                 {[
                     "HTML5", "CSS3", "JavaScript (ES6+)", 
                     "TypeScript", "React", "Tailwind CSS", 
-                    "Sass", "Git", "Github", "Vitest", "Figma",
+                    "Sass", "Git", "Github", "Gitlab", "Vitest", "Figma",
                     "VS Code", "Responsive Design", "REST APIs",
                     "Accessibility (a11y)"
                 ].map(skill => (
