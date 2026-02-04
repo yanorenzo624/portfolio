@@ -20,7 +20,7 @@ const Navbar = () => {
             Contact
           </a>
           <a
-            href="/RenzoYano-Frontend-Developer-Resume.pdf"
+            href="/yanorenzo_frontend_ShokumuKeirekisho.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-600 text-white px-3 py-2 rounded-md text-xs sm:text-sm hover:bg-green-700 transition"
