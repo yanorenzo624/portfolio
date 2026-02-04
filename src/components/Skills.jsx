@@ -14,9 +14,9 @@ const Skills = () => {
             >
                 {[
                     "HTML5", "CSS3", "JavaScript (ES6+)", 
-                    "TypeScript", "React", "Tailwind CSS", 
-                    "Sass", "Git", "Github", "Gitlab", "Vitest", "Figma",
-                    "VS Code", "Responsive Design", "REST APIs",
+                    "TypeScript", "React", "Tailwind CSS", "Next.js",
+                    "Sass", "Git", "Github", "Gitlab", "AWS", "Figma",
+                    "Docker", "Responsive Design", "REST APIs",
                     "Accessibility (a11y)"
                 ].map(skill => (
                     <motion.span
